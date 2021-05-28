@@ -5,14 +5,12 @@ I’m a big fan of open source and building community, and try to regularly find
 Currently, I'm a Software Engineer II @ [Reshift Security](https://reshiftsecurity.com) <img src="https://www.reshiftsecurity.com/wp-content/uploads/2019/10/cropped-reshift-01-1-1-32x32.png" alt="Reshift logo" width="32"/>, working to help developers ensure their code is free of vulnerabilities!
 
 ## Side Projects
-### Co-Creator @ [The Akita Project](https://akitaproject.site)
-Coding, designing, writing, speaking and illustrating for The Akita Project, a [Grant for the Web](https://www.grantfortheweb.org/) funded project providing resources which introduce [Web Monetization](https://webmonetization.org) through storytelling, easy-to-use tools and community outreach.
-* <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/> [Akita Browser Extension](https://github.com/esse-dev/akita): A browser extension that gives you insight into your engagement with Web Monetization.
-* <img src="https://github.com/esse-dev/a-web-monetization-story/raw/master/assets/auden.svg" alt="'A Web Monetization Story' logo" width="32"/> ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/): An interactive, story-based Web Monetization tutorial for online creators.
-* Community Outreach
-  *  [community.webmonetization.org/akita](https://community.webmonetization.org/akita)
-  *  [dev.to/esse-dev](https://dev.to/esse-dev)
-  *  [twitter.com/esse_dev](https://twitter.com/esse_dev)
+### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
+Coding, designing, writing, speaking and illustrating for [The Akita Project](https://akitaproject.site), a [Grant for the Web](https://www.grantfortheweb.org/) funded project providing resources which introduce [Web Monetization](https://webmonetization.org) through storytelling, easy-to-use tools and community outreach.
+
+| <img src="https://github.com/esse-dev/akita-project-site/raw/main/assets/banner1_browser_extension.svg" alt="Akita Extension banner" width="200"/><br>[Akita Browser Extension](https://github.com/esse-dev/akita) | <img src="https://github.com/esse-dev/akita-project-site/raw/main/assets/banner2_a_web_monetization_story.svg" alt="'A Web Monetization Story' banner" width="200"/><br>['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) | <img src="https://github.com/esse-dev/akita-project-site/raw/main/assets/banner3_outreach.svg" alt="Akita Outreach banner" width="200"/><br>[Community Outreach](https://akitaproject.site/#community-outreach) |
+| :-------------: |:-------------:| :-------------: |
+| A browser extension that gives you insight into your engagement with Web Monetization. | An interactive, story-based Web Monetization tutorial for online creators. | [**community.webmonetization.org**/akita](https://community.webmonetization.org/akita)<br>[**dev.to**/esse-dev](https://dev.to/esse-dev)<br>[**twitter.com**/esse_dev](https://twitter.com/esse_dev) |
 
 ## Public Speaking
 | [CASCON x EVOKE 2020, 4th Workshop on Advances in Open Runtimes and Cloud Performance Technologies](https://www-01.ibm.com/ibm/cas/cascon/) | [MoreVMs'21, 5th International Workshop on Modern Language Runtimes, Ecosystems, and VMs @ ‹Programming›’21](https://2021.programming-conference.org/home/MoreVMs-2021) | [Creative Commons Global Summit 2020](https://summit.creativecommons.org/) | [IBM Cloud Developer Conference 2020](https://developer.ibm.com/conferences/digital-developer-conference-hybrid-cloud/) |
