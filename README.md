@@ -2,7 +2,7 @@
 
 I’m a big fan of open source and building community, and try to regularly find opportunities to get involved. Aside from coding, I also enjoy designing, writing, speaking and illustrating. When I’m not getting lost in my browser tabs, I like to spend time outdoors, boulder and do aerial silks.
 
-Currently, I'm a Software Engineer II @ [Reshift Security](https://reshiftsecurity.com) <img src="https://www.reshiftsecurity.com/wp-content/uploads/2019/10/cropped-reshift-01-1-1-32x32.png" alt="Reshift logo" width="32"/>, working to help developers ensure their code is free of vulnerabilities!
+Currently, I'm a Software Engineer II @ [Reshift Security](https://reshiftsecurity.com) <img src="https://www.reshiftsecurity.com/wp-content/uploads/2019/10/cropped-reshift-01-1-1-32x32.png" alt="Reshift logo" width="32"/>, working to help developers ensure their code is free of vulnerabilities! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
 ## Side Projects
 ### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
@@ -18,16 +18,16 @@ Coding, designing, writing, speaking and illustrating for [The Akita Project](ht
 | _Speaker_<br><br>Successes and Challenges in Bringing Performance to Java with Inline Types<br><br>[Talk Replay](https://www.youtube.com/watch?v=yW53vDosmA0) | _Speaker_<br><br>Successes and Challenges in Bringing Performance to Java with Inline Types<br><br>[Talk Replay @ 49:28](https://video.ibm.com/playlist/635232) | _Panelist_<br><br>Can Web Monetization Support Digital Creators? | _Co-Presenter_<br><br>Transforming an Idea into an Experience with Agile and Design Thinking<br>&<br>Build and Deploy a Full Stack Cloud App in 25 Minutes |
 
 ## Other Highlights
-* 📜 Patents Pending:
-   * [Deferred bytecode class verification in managed runtime environments](https://patents.google.com/patent/US20210081220A1)
-      * Blog Post on Implementation: [Relationship verification… Let’s get lazy!](https://blog.openj9.org/2019/10/29/relationship-verification-lets-get-lazy/)
-   * [Bytecode verification using class relationship caching](https://patents.google.com/patent/US20210157552A1) 
-* 🏆 Winning the 2018 Vatican Hackathon: [UCalgary team claims top prize at international Vatican hackathon](https://www.ucalgary.ca/news/ucalgary-team-claims-top-prize-international-vatican-hackathon)
-* 🎓 University of Calgary Grad Spotlight: [Class of 2019: Sharon Wang didn't follow in her geologist parents' footsteps](https://www.ucalgary.ca/news/class-2019-sharon-wang-didnt-follow-her-geologist-parents-footsteps)
+- 📜 Patents:
+   - [Deferred bytecode class verification in managed runtime environments](https://patents.google.com/patent/US20210081220A1)
+      - Blog Post on Implementation: [Relationship verification… Let’s get lazy!](https://blog.openj9.org/2019/10/29/relationship-verification-lets-get-lazy/)
+   - Pending: [Bytecode verification using class relationship caching](https://patents.google.com/patent/US20210157552A1) 
+- 🏆 Winning the 2018 Vatican Hackathon: [UCalgary team claims top prize at international Vatican hackathon](https://www.ucalgary.ca/news/ucalgary-team-claims-top-prize-international-vatican-hackathon)
+- 🎓 University of Calgary Grad Spotlight: [Class of 2019: Sharon Wang didn't follow in her geologist parents' footsteps](https://www.ucalgary.ca/news/class-2019-sharon-wang-didnt-follow-her-geologist-parents-footsteps)
 
 ## Find me on the web
-| [DEV Community](https://dev.to/sharon) | [Devpost](https://devpost.com/sharon-wang) | [GitLab](https://gitlab.com/sharon-wang) | [Hacker Noon](https://hackernoon.com/u/sharonwang) | [LinkedIn](https://www.linkedin.com/in/sharon--wang/) | [Twitter](https://twitter.com/_sharonwang) | [Flickr](https://www.flickr.com/photos/-sharonwang-)|
-| :-------------: |:-------------:| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| blog posts | some of my hackathon history | more code! | more blogging | a collection of my experiences across work, school, volunteering, etc. | sometimes I tweet about what I'm up to | I used to dabble in rookie nature photography |
+| [DEV Community](https://dev.to/sharon) | [Devpost](https://devpost.com/sharon-wang) | [GitLab](https://gitlab.com/sharon-wang) | [Hacker Noon](https://hackernoon.com/u/sharonwang) | [LinkedIn](https://www.linkedin.com/in/sharon--wang/) | [Twitter](https://twitter.com/_sharonwang) |
+| :-------------: |:-------------:| :-------------: | :-------------: | :-------------: | :-------------: |
+| blog posts | some of my hackathon history | more code! | more blogging | a collection of my experiences across work, school, volunteering, etc. | sometimes I tweet about what I'm up to |
 
 _see ya around!_ 🙂
