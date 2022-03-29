@@ -2,7 +2,7 @@
 
 I’m a big fan of open source and building community, and try to regularly find opportunities to get involved. Aside from coding, I also enjoy designing, writing, speaking and illustrating. When I’m not getting lost in my browser tabs, I like to spend time outdoors, boulder and do aerial silks.
 
-Currently, I'm a Software Engineer II @ [Reshift Security](https://reshiftsecurity.com) <img src="https://www.reshiftsecurity.com/wp-content/uploads/2019/10/cropped-reshift-01-1-1-32x32.png" alt="Reshift logo" width="32"/>, working to help developers ensure their code is free of vulnerabilities! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
+Currently, I'm the Technical Lead, R&D @ [Software Secured](https://softwaresecured.com), coding, researching and prototyping! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
 ## Side Projects
 ### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
