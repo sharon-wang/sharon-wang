@@ -4,6 +4,8 @@ I’m a big fan of open source and building community, and try to regularly find
 
 Currently, I'm the Technical Lead, R&D @ [Software Secured](https://softwaresecured.com), coding, researching and prototyping! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
+For more on me, visit [sharons.site](https://sharons.site/).
+
 ## Side Projects
 ### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
 Coding, designing, writing, speaking and illustrating for [The Akita Project](https://akitaproject.site), a [Grant for the Web](https://www.grantfortheweb.org/) funded project providing resources which introduce [Web Monetization](https://webmonetization.org) through storytelling, easy-to-use tools and community outreach.
@@ -24,10 +26,3 @@ Coding, designing, writing, speaking and illustrating for [The Akita Project](ht
    - Pending: [Bytecode verification using class relationship caching](https://patents.google.com/patent/US20210157552A1) 
 - 🏆 Winning the 2018 Vatican Hackathon: [UCalgary team claims top prize at international Vatican hackathon](https://www.ucalgary.ca/news/ucalgary-team-claims-top-prize-international-vatican-hackathon)
 - 🎓 University of Calgary Grad Spotlight: [Class of 2019: Sharon Wang didn't follow in her geologist parents' footsteps](https://www.ucalgary.ca/news/class-2019-sharon-wang-didnt-follow-her-geologist-parents-footsteps)
-
-## Find me on the web
-| [DEV Community](https://dev.to/sharon) | [Devpost](https://devpost.com/sharon-wang) | [GitLab](https://gitlab.com/sharon-wang) | [Hacker Noon](https://hackernoon.com/u/sharonwang) | [LinkedIn](https://www.linkedin.com/in/sharon--wang/) | [Twitter](https://twitter.com/_sharonwang) |
-| :-------------: |:-------------:| :-------------: | :-------------: | :-------------: | :-------------: |
-| blog posts | some of my hackathon history | more code! | more blogging | a collection of my experiences across work, school, volunteering, etc. | sometimes I tweet about what I'm up to |
-
-_see ya around!_ 🙂
