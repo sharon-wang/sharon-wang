@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a big fan of open source and building community, and try to regularly find opportunities to get involved. Aside from coding, I also enjoy designing, writing, [speaking](https://sharons.site/speaking) and illustrating. When I’m not getting lost in my browser tabs, I like to spend time outdoors, boulder and do aerial silks.
+I’m a big fan of open source and building community, and try to regularly find opportunities to get involved. Aside from coding, I also enjoy designing, [writing](https://blog.sharons.site), [speaking](https://sharons.site/speaking) and illustrating. When I’m not getting lost in my browser tabs, I like to spend time outdoors, boulder and do aerial silks.
 
 Currently, I lead the Engineering Team @ [Software Secured](https://softwaresecured.com) -- in other words, I'm coding, researching, prototyping and growing the team! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
