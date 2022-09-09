@@ -2,9 +2,11 @@
 
 I’m a big fan of open source and building community, and try to regularly find opportunities to get involved. Aside from coding, I also enjoy designing, [writing](https://blog.sharons.site), [speaking](https://sharons.site/speaking) and illustrating. When I’m not getting lost in my browser tabs, I like to spend time outdoors, boulder and do aerial silks.
 
-Currently, I lead the Engineering Team @ [Software Secured](https://softwaresecured.com) -- in other words, I'm coding, researching, prototyping and growing the team! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
+Currently, I lead an Engineering Team. Day to day, I'm coding, researching, prototyping and growing the team! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
 For more on me, visit [sharons.site](https://sharons.site/).
+
+To view my open source contributions, head [here](https://github.com/issues?q=author%3Asharon-wang+is%3Apublic).
 
 ## Side Projects
 ### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
