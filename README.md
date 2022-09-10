@@ -4,9 +4,11 @@ I’m a big fan of open source and building community, and try to regularly find
 
 Currently, I lead an Engineering Team. Day to day, I'm coding, researching, prototyping and growing the team! On the side, I do a bit of career coaching and freelance work, and sometimes work on personal/collaborative projects.
 
+I'm working on bringing my interests together: dev, open source, building community, supporting and empowering underrepresented people, writing, speaking and illustrating. If you'd like to discuss something or have some ideas for me, please get in touch! :)
+
 For more on me, visit [sharons.site](https://sharons.site/).
 
-To view my open source contributions, head [here](https://github.com/issues?q=author%3Asharon-wang+is%3Apublic).
+To view my open source contributions, head [here](https://github.com/issues?q=author%3Asharon-wang+is%3Apublic) (you'll need to log into GitHub first).
 
 ## Side Projects
 ### Co-Creator @ [The Akita Project](https://akitaproject.site) <img src="https://github.com/esse-dev/akita/raw/master/assets/icons/icon_64x64.png" alt="akitaproject.site logo" width="32"/>
