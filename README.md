@@ -4,10 +4,6 @@ I’m a big fan of open source and building community, and try to regularly find
 
 To view my open source contributions, head [here](https://github.com/issues?q=involves%3Asharon-wang+is%3Apublic) (you'll need to log into GitHub first).
 
-## ✨ **I'm looking for a new opportunity!** ✨
-
-In my next role, I would really like to bring my interests together: dev, open source, building community, supporting and empowering underrepresented people, [writing](https://blog.sharons.site), [speaking](https://sharons.site/speaking) and illustrating. If you'd like to discuss an opportunity with me, [please get in touch](https://forms.gle/vwB8kTaxaoRmAJMy5)! :)
-
 I've worked on a variety of things: frontend, backend, full stack, open source, Java runtime / VM, static analysis and auto-remediation of code vulnerabilities, product dev, building prototypes, app architecture, managing builds/deployments/releases/infra, leading an engineering team, hiring & onboarding, content creation and other things in between. On the side, I do a bit of career coaching and freelance work (design, illustration, web dev, WordPress), judge grant proposals, and sometimes work on personal/collaborative projects.
 
 I'm flexible on the domain of my work -- I think there's always plenty of interesting problems to solve in any space and I'm more than happy to dive into a new stack. What I really care about is ensuring that whatever I'm building solves actual problems that people are facing. For me, that means I need to be speaking directly with who I'm building for and closely collaborating with them along the way. Overall, I'm looking to work with people who want to make meaningful change, care about inclusivity and diversity, and weave thoughtfulness into their creative process.
